@@ -84,14 +84,24 @@ article {
 }
 footer {
   width: 100%;
-  height: 80px;
+  height: 40px;
   background-color: lightgray;
   clear: both;
   text-align: center;
   padding: 10px;
-  font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-family: 'Poppins', sans-serif;
 }
 
+form {
+  width: 100%;
+  height: 100%;
+  background-color: lightgray;
+  clear: both;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+}
 
 .right-half{
 	width: 577px;
